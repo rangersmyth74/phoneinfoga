@@ -33,6 +33,10 @@
 
 ## About
 
+
+This version of phoneinfoga was from https://github.com/abhinavkavuri/PhoneInfoga - There are some reported errors from https://app.fossa.io/projects/git%2Bgithub.com%2Fsundowndev%2FPhoneInfoga/refs/branch/master/e306f033dba05c45d818cc2c4f13c7b056cc3c82/preview
+ranger.
+
 PhoneInfoga is one of the most advanced tools to scan international phone numbers using only free resources. It allows you to first gather standard information such as country, area, carrier and line type on any international phone number. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.
 
 ## Unofficial video tutorials
